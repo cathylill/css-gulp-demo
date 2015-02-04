@@ -1,0 +1,18 @@
+linters:
+  Indentation:
+    enabled: true
+    allow_non_nested_indentation: false
+    character: tab
+    width: 1
+
+  ColorKeyword:
+    enabled: false
+
+  SelectorFormat:
+    enabled: false
+
+  LeadingZero:
+    enabled: false
+
+  NameFormat:
+    enabled: false

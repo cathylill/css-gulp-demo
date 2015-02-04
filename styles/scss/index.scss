@@ -1,0 +1,15 @@
+@import 'layout';
+@import 'skin';
+
+body {
+	@extend %lyt-page;
+	@extend %skn-page;
+}
+
+.container {
+	@extend %lyt-container;
+}
+
+.heading {
+	@extend %skn_heading;
+}
